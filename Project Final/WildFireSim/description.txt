@@ -1,0 +1,11 @@
+Wildfire Simulator
+CS 132: Computer Science II C++, Winter 2023 Final Group Project
+Group 3: Dillon Donohue & Lucas Henderson
+
+This simulation will demonstrate how a wildfile
+spreads through an environment of fuel sources
+including grass, young forest, and old forest.
+Firefighting countermeasures have been deployed
+in the simulated environment to slow the spread
+of the fire, these countermeasures include fire
+retardant and fire breaks.
